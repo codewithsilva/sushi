@@ -1,7 +1,7 @@
 # sushi
   Come and get your sushi
 
-Site: https://psilva999.github.io/sushi/
+Site: https://codewithsilva.github.io/sushi/
 
 ## Technologies
 ___
