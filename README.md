@@ -1,7 +1,7 @@
 # sushi
   Come and get your sushi
 
-Site: https://codewithsilva.github.io/sushi/
+Site: https://sushi-phi-three.vercel.app/
 
 ## Technologies
 ___
